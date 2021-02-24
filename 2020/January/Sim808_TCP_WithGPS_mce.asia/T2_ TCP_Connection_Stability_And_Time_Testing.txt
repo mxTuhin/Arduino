@@ -1,0 +1,17 @@
+Information Section**
+Product ID: "GH9IG5D6"
+Battery: 1 cell(3.7v) Li-Ion 5000mAh
+
+Starting (Wihtout Delay in void Loop())
+
+Actual Time			Arduino Time			Time Delay		Data Loss
+1:03:01 pm			07:03:01 pm			28 Second		One Loop each
+
+Database locID Test (1:03:01 pm)
+Starting Time			Starting Count			Ending Time		Ending Count		Count Loss	LapsCount	LapsTime
+1:03:01 pm			0				*			**			**		**		** pm
+
+Voltage Test(3.7v Li-Ion 5000 mAh - Charged) 
+
+Time				Starting Volt		Remaining Volt		Drain		Performance Hour
+1:03:01 pm			4.13v			**			**		** hours

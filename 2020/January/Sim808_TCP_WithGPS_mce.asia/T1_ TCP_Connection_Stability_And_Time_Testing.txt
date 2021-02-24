@@ -1,0 +1,13 @@
+Starting (Wihtout Delay in void Loop())
+
+Actual Time			Arduino Time			Time Delay		Data Loss
+1:20:05 am			19:20:05 am			24 Second		One Loop each
+
+Database locID Test (1:10:05)
+Starting Time			Starting Count			Ending Time		Ending Count		Count Loss	LapsCount	LapsTime
+1:33:43 am			12				7:10:05			862			0		112		2:13:28 am
+
+Voltage Test(On a fresh Battery of 3.85v-Non Charged) 
+
+Time				Starting Volt		Remaining Volt		Drain		Performance Hour
+2:05:50 am			3.84v			3.79			0.5v		4 hours
